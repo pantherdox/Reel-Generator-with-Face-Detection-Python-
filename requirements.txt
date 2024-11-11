@@ -1,0 +1,9 @@
+numpy
+opencv-python
+opencv-python-headless
+dlib
+face-recognition
+moviepy
+Pillow
+logging
+moviepy
